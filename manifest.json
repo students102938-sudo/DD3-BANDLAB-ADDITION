@@ -1,0 +1,17 @@
+{
+  "name": "BOSS DD-3 Studio & Vocal Rack",
+  "short_name": "DD-3 Studio",
+  "description": "BOSS DD-3 Auto-Tempo Delay, BandLab Auto-Voice EQ, Studio Reverb & WAV Exporter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#005fa8",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
