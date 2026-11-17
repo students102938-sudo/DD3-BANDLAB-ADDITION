@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="110" fill="#005fa8"/>
-  <rect x="46" y="46" width="420" height="420" rx="85" fill="#f8fafc"/>
-  <circle cx="256" cy="115" r="18" fill="#ef4444"/>
-  <text x="256" y="245" font-family="Arial Black, sans-serif" font-size="78" font-weight="900" fill="#005fa8" text-anchor="middle">DD-3</text>
-  <text x="256" y="305" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#334155" text-anchor="middle">STUDIO RACK</text>
-  <rect x="95" y="350" width="322" height="90" rx="22" fill="#1e293b"/>
-  <text x="256" y="408" font-family="Arial Black, sans-serif" font-size="40" fill="#e2e8f0" text-anchor="middle" letter-spacing="6">BOSS</text>
-</svg>
